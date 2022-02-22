@@ -5,7 +5,7 @@ The plot.py is used for SHARP CE-515P plotter, which has standard parallel port 
 
 The plot-fortec.py is used for Fortec ET-318C plotter typewriter, which also has standard parallel port and some DXY-GL support.
 
-Both machine has moving range from 999 to 999, like if you transfer command “M1000,1000” it will not work, the CE-515P has approx. 100dpi and ET-318C is about 200dpi
+Both machine has moving range from -999 to 999, like if you transfer command “M1000,1000” it will not work, the CE-515P has approx. 100dpi and ET-318C is about 200dpi
 
 I use them in my Inkspace workflow which can save HP-GL for print, make sure you enter the correct dpi and check the “Center zero point” option.
 
