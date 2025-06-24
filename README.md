@@ -14,7 +14,7 @@ The usage is pretty simple, just run the script with python like:
     python plot.py columbia.hpgl output.txt
 And the you will get the “output.txt” with all DXY-GL command sequence for plotting, include initialize and re-center command added by the script.
 
-And then you can send then to your parallel port, personally I’m using an common USB-Parallel printer adapter
+And then you can send them to your parallel port, personally I’m using an common USB-Parallel printer adapter
 
     cat output.txt > /dev/usb/lp0
 Since in the Linux parallel port is a device file, you can bypass the step of write the command sequence directly to parallel port, for example
@@ -25,3 +25,5 @@ Since there are several other plotters and plotter typewriters are using same AL
 - Plotter typewriters: Brother BP-30, Panasonic RK-P400C
 
 These machine might use with these scripts with very small modification, but I didn’t tested because I don’t have all the hardware.
+
+Check the detail [Instruction](documents/Instruction.md), here is also a [Chinese version](documents/Instruction.md).
