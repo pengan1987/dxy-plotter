@@ -1,3 +1,5 @@
+# 基于InkScape和SHARP CE-515P的绘图仪工作流
+
 2021年新年假期，漫画家子杰提供了一个机会和我一起实验两款基于ALPS 4笔尖绘图仪的机会，我们调通了SHARP CE-515P绘图仪和Fortec ET-318C打字机/绘图仪，并完成了InkScape输出到打印机的工作流，主要的代码在这里  
 [https://github.com/pengan1987/dxy-plotter](https://github.com/pengan1987/dxy-plotter)
   

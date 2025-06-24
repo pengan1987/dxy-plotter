@@ -1,3 +1,5 @@
+# A Plotting Workflow Based on Inkscape and the SHARP CE-515P Plotter
+
 During the 2021 New Year holiday, comic artist Zijie provided an opportunity to collaborate with me on experimenting with two ALPS 4-pen plotters. We successfully set up the SHARP CE-515P plotter and the Fortec ET-318C typewriter/plotter, and completed a workflow from Inkscape output to the printer. The main code can be found here:
 [https://github.com/pengan1987/dxy-plotter](https://github.com/pengan1987/dxy-plotter)
 
